@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "日常",
   "base_artist": "Official髭男dism",
-  "createdAt": "2026-02-06T10:02:02.623000Z",
+  "createdAt": "2026-03-29T07:19:13.883647Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,15 @@
       "artist": "Official髭男dism",
       "has_synced": false,
       "path": "select/pl_01_日常_Official髭男dism.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "日常",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/localdb_01_日常_Official髭男dism.lrc",
+      "repo_name": "LbtQM793jn8"
     }
   ]
 }
